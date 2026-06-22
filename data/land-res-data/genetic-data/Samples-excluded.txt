@@ -1,0 +1,12 @@
+Site 11MS - too many samples, reduce to 15 by removing:
+C_BTF9
+C_BTF11
+C_BTF41
+C_BTF49
+C_BTF10
+C_BTF44
+C_BTF5
+C_BTF38
+
+Uncertain location (coords don't match site code or name)
+C_BTF24
