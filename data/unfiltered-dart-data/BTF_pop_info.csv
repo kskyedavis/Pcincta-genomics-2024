@@ -1,0 +1,159 @@
+id,pop,survey,season,sampler,site,site_code,capture_time,release_time,recapture,FTA_blood,field_sample_reference,blood_sample_batch,lon,lat
+C_BTF1,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 1:50,7/09/2021 2:30,Yes,Yes,BTF1,Jul_2022,146.271978,-21.914986
+C_BTF59,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 12:13,15/09/2021 12:30,Yes,Yes,BTF59,Jul_2022,146.29508,-22.01683
+C_BTF58,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 12:13,15/09/2021 12:34,Yes,Yes,BTF58,Jul_2022,146.29508,-22.01683
+C_BTF54,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 10:22,15/09/2021 10:52,Yes,Yes,BTF54,Jul_2022,146.29508,-22.01683
+C_BTF38,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 10:06,14/09/2021 10:22,Yes,Yes,BTF38,Jul_2022,146.271978,-21.914986
+C_BTF61,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 1:54,15/09/2021 2:06,Yes,Yes,BTF61,Jul_2022,146.29508,-22.01683
+C_BTF49,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 3:22,14/09/2021 3:35,Yes,Yes,BTF49,Jul_2022,146.271978,-21.914986
+S_BTF17,South,2021 Dry Season,Dry,Dean Jones,Carmichael bore,CMB,11/09/2021 3:20,11/09/2021 3:42,Yes,Yes,BTF17,Jul_2022,146.38315,-22.13729
+C_BTF2,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 10:27,7/09/2021 11:16,No,Yes,BTF2,Jul_2022,146.271978,-21.914986
+C_BTF3,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 11:00,7/09/2021 11:37,No,Yes,BTF3,Jul_2022,146.271978,-21.914986
+C_BTF4,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 11:48,7/09/2021 12:24,No,Yes,BTF4,Jul_2022,146.271978,-21.914986
+C_BTF5,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 11:50,7/09/2021 12:44,No,Yes,BTF5,Jul_2022,146.271978,-21.914986
+C_BTF6,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 11:55,7/09/2021 12:56,No,Yes,BTF6,Jul_2022,146.271978,-21.914986
+C_BTF7,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 1:50,7/09/2021 2:19,No,Yes,BTF7,Jul_2022,146.271978,-21.914986
+C_BTF8,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 1:50,7/09/2021 2:47,No,Yes,BTF8,Jul_2022,146.271978,-21.914986
+C_BTF9,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 1:50,7/09/2021 3:25,No,Yes,BTF9,Jul_2022,146.271978,-21.914986
+C_BTF10,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,7/09/2021 1:50,7/09/2021 3:13,No,Yes,BTF10,Jul_2022,146.271978,-21.914986
+C_BTF11,Central,2021 Dry Season,Dry,Dean Jones,10 Mile Bore,10MB,8/09/2021 1:40,8/09/2021 2:10,No,Yes,BTF11,Jul_2022,146.271978,-21.914986
+C_BTF12,Central,2021 Dry Season,Dry,Dean Jones,Number 2 Dam,N2D,9/09/2021 10:56,9/09/2021 11:35,No,Yes,BTF12,Jul_2022,146.30724,-21.94793
+C_BTF13,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,10/09/2021 11:40,10/09/2021 12:00,No,Yes,BTF13,Jul_2022,146.29508,-22.01683
+C_BTF14,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,10/09/2021 12:45,10/09/2021 1:02,No,Yes,BTF14,Jul_2022,146.29508,-22.01683
+C_BTF15,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,10/09/2021 12:50,10/09/2021 1:22,No,No,BTF15,Jul_2022,146.29508,-22.01683
+C_BTF16,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,10/09/2021 2:00,10/09/2021 2:15,No,Yes,BTF16,Jul_2022,146.29508,-22.01683
+S_BTF18,South,2021 Dry Season,Dry,Dean Jones,Carmichael bore,CMB,11/09/2021 1:45,11/09/2021 2:03,No,Yes,BTF18,Jul_2022,146.38315,-22.13729
+S_BTF19,South,2021 Dry Season,Dry,Dean Jones,Carmichael bore,CMB,11/09/2021 1:45,11/09/2021 2:20,No,Yes,BTF19,Jul_2022,146.38315,-22.13729
+S_BTF20,South,2021 Dry Season,Dry,Dean Jones,Carmichael bore,CMB,11/09/2021 2:50,11/09/2021 3:06,No,Yes,BTF20,Jul_2022,146.38315,-22.13729
+S_BTF21,South,2021 Dry Season,Dry,Dean Jones,Carmichael bore,CMB,11/09/2021 3:20,11/09/2021 4:00,No,Yes,BTF21,Jul_2022,146.38315,-22.13729
+S_BTF22,South,2021 Dry Season,Dry,Dean Jones,Carmichael bore,CMB,11/09/2021 4:05,11/09/2021 4:28,No,Yes,BTF22,Jul_2022,146.38315,-22.13729
+S_BTF23,South,2021 Dry Season,Dry,Dean Jones,Carmichael bore,CMB,11/09/2021 4:08,11/09/2021 4:45,No,Yes,BTF23,Jul_2022,146.38315,-22.13729
+C_BTF24,Central,2021 Dry Season,Dry,Dean Jones,Number 2 Dam,N2D,12/09/2021 12:10,12/09/2021 12:50,No,Yes,BTF24,Jul_2022,146.3449,-21.95086
+C_BTF25,Central,2021 Dry Season,Dry,Dean Jones,Number 2 Dam,N2D,12/09/2021 3:16,12/09/2021 3:50,No,Yes,BTF25,Jul_2022,146.33351,-21.94872
+C_BTF26,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 10:50,13/09/2021 11:51,No,Yes,BTF26,Jul_2022,146.333546,-21.948902
+C_BTF27,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 11:02,13/09/2021 11:28,No,Yes,BTF27,Jul_2022,146.333546,-21.948902
+C_BTF28,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 11:19,13/09/2021 12:01,No,Yes,BTF28,Jul_2022,146.333546,-21.948902
+C_BTF29,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 11:29,13/09/2021 12:11,No,Yes,BTF29,Jul_2022,146.333546,-21.948902
+C_BTF30,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 11:33,13/09/2021 12:20,No,Yes,BTF30,Jul_2022,146.333546,-21.948902
+C_BTF31,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 11:33,13/09/2021 12:30,No,Yes,BTF31,Jul_2022,146.333546,-21.948902
+C_BTF32,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 11:33,13/09/2021 12:41,No,Yes,BTF32,Jul_2022,146.333546,-21.948902
+C_BTF33,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 11:33,13/09/2021 1:02,No,Yes,BTF33,Jul_2022,146.333546,-21.948902
+C_BTF34,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 1:29,13/09/2021 1:48,No,Yes,BTF34,Jul_2022,146.333546,-21.948902
+C_BTF35,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 1:47,13/09/2021 2:05,No,Yes,BTF35,Jul_2022,146.333546,-21.948902
+C_BTF36,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 2:27,13/09/2021 2:44,No,Yes,BTF36,Jul_2022,146.333546,-21.948902
+C_BTF37,Central,2021 Dry Season,Dry,Dean Jones,Three-ways Fence Scrape,3WFS,13/09/2021 3:30,13/09/2021 3:50,No,Yes,BTF37,Jul_2022,146.333546,-21.948902
+C_BTF39,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 10:06,14/09/2021 10:31,No,Yes,BTF39,Jul_2022,146.271978,-21.914986
+C_BTF40,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 10:06,14/09/2021 11:03,No,Yes,BTF40,Jul_2022,146.271978,-21.914986
+C_BTF41,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 10:06,14/09/2021 11:20,No,Yes,BTF41,Jul_2022,146.271978,-21.914986
+C_BTF42,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 10:06,14/09/2021 11:39,No,Yes,BTF42,Jul_2022,146.271978,-21.914986
+C_BTF43,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 12:15,14/09/2021 12:57,No,Yes,BTF43,Jul_2022,146.271978,-21.914986
+C_BTF44,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 12:15,14/09/2021 12:52,No,Yes,BTF44,Jul_2022,146.271978,-21.914986
+C_BTF45,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 1:30,14/09/2021 1:53,No,Yes,BTF45,Jul_2022,146.271978,-21.914986
+C_BTF46,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 1:57,14/09/2021 2:16,No,Yes,BTF46,Jul_2022,146.271978,-21.914986
+C_BTF47,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 1:57,14/09/2021 2:20,No,Yes,BTF47,Jul_2022,146.271978,-21.914986
+C_BTF48,Central,2021 Dry Season,Dry,Dean Jones,11 Mile Scrape,11MS,14/09/2021 1:57,14/09/2021 2:43,No,Yes,BTF48,Jul_2022,146.271978,-21.914986
+C_BTF50,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 9:00,15/09/2021 9:40,No,Yes,BTF50,Jul_2022,146.29508,-22.01683
+C_BTF51,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 9:18,15/09/2021 9:50,No,Yes,BTF51,Jul_2022,146.29508,-22.01683
+C_BTF52,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 9:18,15/09/2021 10:02,No,Yes,BTF52,Jul_2022,146.29508,-22.01683
+C_BTF53,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 9:18,15/09/2021 10:26,No,Yes,BTF53,Jul_2022,146.29508,-22.01683
+C_BTF55,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 10:51,15/09/2021 11:12,No,Yes,BTF55,Jul_2022,146.29508,-22.01683
+C_BTF56,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 10:51,15/09/2021 11:46,No,Yes,BTF56,Jul_2022,146.29508,-22.01683
+C_BTF57,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 11:07,15/09/2021 11:52,No,Yes,BTF57,Jul_2022,146.29508,-22.01683
+C_BTF60,Central,2021 Dry Season,Dry,Dean Jones,Four Mile Bore,4MB,15/09/2021 12:13,15/09/2021 1:03,No,Yes,BTF60,Jul_2022,146.29508,-22.01683
+C_BTF62,Central,2021 Dry Season,Dry,Dean Jones,Number 2 Dam,N2D,16/09/2021 10:04,16/09/2021 10:28,No,Yes,BTF62,Jul_2022,146.31,-21.946
+C_BTF63,Central,2021 Dry Season,Dry,Dean Jones,Number 2 Dam,N2D,16/09/2021 10:04,16/09/2021 10:39,No,Yes,BTF63,Jul_2022,146.31,-21.946
+C_BTF64,Central,2021 Dry Season,Dry,Dean Jones,Number 2 Dam,N2D,16/09/2021 11:05,16/09/2021 11:28,No,Yes,BTF64,Jul_2022,146.31,-21.946
+C_NOV57,Central,2022 Dry Season,Dry,Breanna Williams,11 Mile Scrape,11MS,7/10/2022 8:19,7/10/2022 8:50,No,Yes,BTF226,Nov_2023,146.272037,-21.914979
+C_NOV58,Central,2022 Dry Season,Dry,Breanna Williams,11 Mile Scrape,11MS,7/10/2022 9:10,7/10/2022 10:15,No,Yes,BTF231,Nov_2023,146.272037,-21.914979
+C_NOV59,Central,2022 Dry Season,Dry,Breanna Williams,11 Mile Scrape,11MS,7/10/2022 10:32,7/10/2022 11:51,No,Yes,BTF236,Nov_2023,146.272037,-21.914979
+C_NOV60,Central,2022 Dry Season,Dry,Breanna Williams,11 Mile Scrape,11MS,7/10/2022 15:57,7/10/2022 16:38,No,Yes,BTF243,Nov_2023,146.272037,-21.914979
+C_NOV61,Central,2022 Dry Season,Dry,Breanna Williams,10 Mile Bore,10MB,8/10/2022 10:50,8/10/2022 11:40,No,Yes,BTF245,Nov_2023,146.255729,-21.920341
+C_NOV62,Central,2022 Dry Season,Dry,Breanna Williams,10 Mile Bore,10MB,8/10/2022 13:18,8/10/2022 13:37,No,Yes,BTF246,Nov_2023,146.255729,-21.920341
+C_NOV63,Central,2022 Dry Season,Dry,Chays Ogston,10 Mile Bore,10MB,15/10/2022 14:45,15/10/2022 15:07,Yes,Yes,BTF292,Nov_2023,146.255778,-21.920212
+C_NOV64,Central,2022 Dry Season,Dry,Breanna Williams,Spider Alley,SA,10/10/2022 13:28,10/10/2022 14:08,No,Yes,BTF249,Nov_2023,146.259335,-21.884075
+C_NOV65,Central,2022 Dry Season,Dry,Breanna Williams,Spider Alley,SA,10/10/2022 14:00,10/10/2022 14:57,No,Yes,BTF250,Nov_2023,146.259335,-21.884075
+C_NOV66,Central,2022 Dry Season,Dry,Breanna Williams,Spider Alley,SA,10/10/2022 15:22,10/10/2022 15:45,No,Yes,BTF252,Nov_2023,146.259335,-21.884075
+C_NOV67,Central,2022 Dry Season,Dry,Breanna Williams,Three-ways Fence Scrape,3WFS,11/10/2022 10:43,11/10/2022 11:17,No,Yes,BTF257,Nov_2023,146.345083,-21.95085
+C_NOV68,Central,2022 Dry Season,Dry,Breanna Williams,Three-ways Fence Scrape,3WFS,11/10/2022 11:45,11/10/2022 12:08,No,Yes,BTF258,Nov_2023,146.345083,-21.95085
+C_NOV69,Central,2022 Dry Season,Dry,Breanna Williams,Three-ways Fence Scrape,3WFS,11/10/2022 14:05,11/10/2022 14:25,No,Yes,BTF261,Nov_2023,146.345083,-21.95085
+S_NOV33,South,2022 Dry Season,Dry,Breanna Williams,Lignum fence trough,LFT,12/10/2022 14:24,12/10/2022 14:30,No,Yes,BTF263,Nov_2023,146.411307,-22.250395
+S_NOV34,South,2022 Dry Season,Dry,Breanna Williams,Lignum fence trough,LFT,12/10/2022 14:11,12/10/2022 14:20,No,Yes,BTF262,Nov_2023,146.411307,-22.250395
+S_NOV35,South,2022 Dry Season,Dry,Breanna Williams,Lignum fence trough,LFT,12/10/2022 14:58,12/10/2022 15:09,No,Yes,BTF264,Nov_2023,146.411307,-22.250395
+S_NOV36,South,2022 Dry Season,Dry,Breanna Williams,Lignum fence trough,LFT,12/10/2022 15:08,12/10/2022 15:20,No,Yes,BTF265,Nov_2023,146.411307,-22.250395
+S_NOV37,South,2022 Dry Season,Dry,Breanna Williams,Lignum fence trough,LFT,12/10/2022 15:20,12/10/2022 15:25,No,Yes,BTF266,Nov_2023,146.411307,-22.250395
+S_NOV38,South,2022 Dry Season,Dry,Breanna Williams,Lignum fence trough,LFT,12/10/2022 15:20,12/10/2022 15:36,No,Yes,BTF268,Nov_2023,146.411307,-22.250395
+S_NOV39,South,2022 Dry Season,Dry,Breanna Williams,Lignum fence trough,LFT,12/10/2022 15:50,12/10/2022 15:56,No,Yes,BTF269,Nov_2023,146.411307,-22.250395
+C_NOV70,Central,2022 Dry Season,Dry,Breanna Williams,10 Mile Bore,10MB,13/10/2022 8:40,13/10/2022 9:53,No,Yes,BTF272,Nov_2023,146.255712,-21.920266
+S_NOV40,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 12:32,14/10/2022 12:45,No,Yes,BTF273,Nov_2023,146.411412,-22.250437
+S_NOV41,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 13:00,14/10/2022 13:07,No,Yes,BTF274,Nov_2023,146.411412,-22.250437
+S_NOV42,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 13:00,14/10/2022 13:15,No,Yes,BTF275,Nov_2023,146.411412,-22.250437
+S_NOV43,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 13:00,14/10/2022 13:25,No,Yes,BTF276,Nov_2023,146.411412,-22.250437
+S_NOV44,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 13:38,14/10/2022 13:45,No,Yes,BTF277,Nov_2023,146.411412,-22.250437
+S_NOV45,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 13:38,14/10/2022 13:55,No,Yes,BTF278,Nov_2023,146.411412,-22.250437
+S_NOV46,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 13:38,14/10/2022 14:05,No,Yes,BTF279,Nov_2023,146.411412,-22.250437
+S_NOV47,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 14:25,14/10/2022 14:35,No,Yes,BTF280,Nov_2023,146.411412,-22.250437
+S_NOV48,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 14:36,14/10/2022 14:44,No,Yes,BTF281,Nov_2023,146.411412,-22.250437
+S_NOV49,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 15:15,14/10/2022 15:25,No,Yes,BTF282,Nov_2023,146.411412,-22.250437
+S_NOV50,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 15:30,14/10/2022 15:40,No,Yes,BTF283,Nov_2023,146.411412,-22.250437
+S_NOV51,South,2022 Dry Season,Dry,Chays Ogston,Lignum fence trough,LFT,14/10/2022 15:30,14/10/2022 15:48,No,Yes,BTF284,Nov_2023,146.411412,-22.250437
+C_NOV52,Central,2022 Dry Season,Dry,Chays Ogston,4 Mile Bore,4MB,15/10/2022 7:25,15/10/2022 7:35,No,Yes,BTF287,Nov_2023,146.295371,-22.01643
+C_NOV53,Central,2022 Dry Season,Dry,Chays Ogston,4 Mile Bore,4MB,15/10/2022 7:25,15/10/2022 8:35,No,Yes,BTF288,Nov_2023,146.295371,-22.01643
+C_NOV54,Central,2022 Dry Season,Dry,Chays Ogston,4 Mile Bore,4MB,15/10/2022 7:25,15/10/2022 7:48,No,Yes,BTF289,Nov_2023,146.295371,-22.01643
+C_NOV55,Central,2022 Dry Season,Dry,Chays Ogston,4 Mile Bore,4MB,15/10/2022 7:25,15/10/2022 8:09,No,Yes,BTF290,Nov_2023,146.295371,-22.01643
+C_NOV56,Central,2022 Dry Season,Dry,Chays Ogston,4 Mile Bore,4MB,15/10/2022 10:48,15/10/2022 11:18,No,Yes,BTF291,Nov_2023,146.295371,-22.01643
+C_NOV71,Central,2022 Dry Season,Dry,Chays Ogston,10 Mile Bore,10MB,15/10/2022 15:55,15/10/2022 16:13,No,Yes,BTF285,Nov_2023,146.255729,-21.920341
+C_NOV72,Central,2022 Dry Season,Dry,Chays Ogston,10 Mile Bore,10MB,15/10/2022 15:55,15/10/2022 16:25,No,Yes,BTF286,Nov_2023,146.255729,-21.920341
+C_NOV91,Central,2022 Early Wet Season,Early Wet,Breanna Williams,Scrape on track SW of Ten Mile,SWTM,10/02/2022 10:22,10/02/2022 10:56,Yes,Yes,BTF74,Nov_2023,146.23714,-21.936683
+C_NOV92,Central,2022 Early Wet Season,Early Wet,Breanna Williams,11 Mile Scrape,11MS,9/02/2022 11:38,9/02/2022 12:19,No,Yes,BTF68,Nov_2023,146.272062,-21.914974
+C_NOV93,Central,2022 Early Wet Season,Early Wet,Breanna Williams,11 Mile Scrape,11MS,9/02/2022 2:40,9/02/2022 3:35,No,Yes,BTF70,Nov_2023,146.272021,-21.914966
+C_NOV94,Central,2022 Early Wet Season,Early Wet,Breanna Williams,11 Mile Scrape,11MS,9/02/2022 2:40,9/02/2022 3:35,No,Yes,BTF71,Nov_2023,146.272024,-21.914976
+C_NOV73,Central,2022 Early Wet Season,Early Wet,Breanna Williams,Three-ways Fence Scrape,3WFS,17/02/2022 4:28,17/02/2022 17:40,No,Yes,BTF129,Nov_2023,146.34478,-21.950928
+C_NOV74,Central,2022 Early Wet Season,Early Wet,Breanna Williams,Scrape on track SW of Ten Mile,SWTM,19/02/2022 9:36,19/02/2022 10:11,No,Yes,BTF130,Nov_2023,146.237134,-21.936644
+C_NOV75,Central,2022 Early Wet Season,Early Wet,Breanna Williams,Scrape on track SW of Ten Mile,SWTM,19/02/2022 11:07,19/02/2022 11:37,No,Yes,BTF131,Nov_2023,146.237152,-21.936667
+C_NOV76,Central,2022 Early Wet Season,Early Wet,Breanna Williams,Scrape on track SW of Ten Mile,SWTM,19/02/2022 11:07,19/02/2022 12:03,No,Yes,BTF132,Nov_2023,146.237151,-21.936662
+C_NOV77,Central,2022 Early Wet Season,Early Wet,Breanna Williams,Scrape on track SW of Ten Mile,SWTM,19/02/2022 12:35,19/02/2022 13:40,No,Yes,BTF138,Nov_2023,146.237147,-21.936658
+C_NOV78,Central,2022 Early Wet Season,Early Wet,Breanna Williams,Scrape on track SW of Ten Mile,SWTM,19/02/2022 12:35,19/02/2022 14:04,No,Yes,BTF139,Nov_2023,146.237151,-21.936652
+C_NOV79,Central,2022 Wet Season,Wet,Emily Drummond,Scrape on track SW of Ten Mile,SWTM,3/06/2022 3:50,3/06/2022 4:20,Yes,Yes,BTF148,Nov_2023,146.237251,-21.93675
+C_NOV80,Central,2022 Wet Season,Wet,Emily Drummond,11 Mile Scrape,11MS,3/06/2022 22:50,3/06/2022 23:40,Yes,Yes,BTF154,Nov_2023,146.27205,-21.914982
+C_NOV81,Central,2022 Wet Season,Wet,Emily Drummond,Three-ways Fence Scrape,3WFS,6/06/2022 3:50,6/06/2022 4:56,Yes,Yes,BTF169,Nov_2023,146.345044,-21.950855
+C_NOV82,Central,2022 Wet Season,Wet,Emily Drummond,Scrape on track SW of Ten Mile,SWTM,3/06/2022 1:35,3/06/2022 2:35,No,Yes,BTF145,Nov_2023,146.237146,-21.936713
+C_NOV83,Central,2022 Wet Season,Wet,Emily Drummond,Scrape on track SW of Ten Mile,SWTM,3/06/2022 1:30,3/06/2022 3:04,No,Yes,BTF146,Nov_2023,146.237251,-21.93675
+C_NOV84,Central,2022 Wet Season,Wet,Emily Drummond,Scrape on track SW of Ten Mile,SWTM,3/06/2022 1:30,2/06/2022 15:50,No,Yes,BTF147,Nov_2023,146.237221,-21.936776
+C_NOV85,Central,2022 Wet Season,Wet,Emily Drummond,11 Mile Scrape,11MS,3/06/2022 22:50,4/06/2022 0:16,No,Yes,BTF156,Nov_2023,146.27205,-21.914982
+C_NOV86,Central,2022 Wet Season,Wet,Emily Drummond,11 Mile Scrape,11MS,4/06/2022 2:00,3/06/2022 2:46,Yes,Yes,BTF158,Nov_2023,146.27205,-21.914982
+C_NOV87,Central,2022 Wet Season,Wet,Emily Drummond,11 Mile Scrape,11MS,4/06/2022 3:50,4/06/2022 4:45,No,Yes,BTF163,Nov_2023,146.27205,-21.914982
+C_NOV88,Central,2022 Wet Season,Wet,Emily Drummond,Number 2 Dam,N2D,5/06/2022 1:45,5/06/2022 2:35,No,Yes,BTF173,Nov_2023,146.307307,-21.947912
+C_NOV89,Central,2022 Wet Season,Wet,Dean Jones,Boundary Rd 6km N 4mile bore,BR,7/06/2022 0:15,7/06/2022 0:55,No,Yes,BTF176,Nov_2023,146.271546,-21.962496
+C_NOV90,Central,2022 Wet Season,Wet,Breanna Williams,Spider Alley,SA,10/06/2022 1:30,10/06/2022 2:46,No,Yes,BTF201,Nov_2023,146.259302,-21.883999
+S_NOV01,South,2023 Wet Season,Wet,Chays Ogston,Carmichael Bore,CMB,11/05/2023 9:40,11/05/2023 10:20,No,Yes,Nov-01,Nov_2023,146.383108,-22.137289
+S_NOV02,South,2023 Wet Season,Wet,Chays Ogston,Carmichael Bore,CMB,11/05/2023 9:40,11/05/2023 10:30,No,Yes,Nov-02,Nov_2023,146.383108,-22.137289
+S_NOV03,South,2023 Wet Season,Wet,Chays Ogston,Carmichael Bore,CMB,11/05/2023 9:40,11/05/2023 10:35,No,Yes,Nov-03,Nov_2023,146.383108,-22.137289
+S_NOV04,South,2023 Wet Season,Wet,Chays Ogston,Carmichael Bore,CMB,11/05/2023 13:50,11/05/2023 14:05,No,Yes,Nov-04,Nov_2023,146.383108,-22.137289
+S_NOV05,South,2023 Wet Season,Wet,Chays Ogston,Carmichael Bore,CMB,11/05/2023 13:50,11/05/2023 14:10,No,Yes,Nov-05,Nov_2023,146.383108,-22.137289
+N_NOV06,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 9:20,6/05/2023 9:36,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV07,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 9:20,6/05/2023 9:37,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV08,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 10:20,6/05/2023 10:34,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV09,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 10:20,6/05/2023 10:36,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV10,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 10:50,6/05/2023 10:55,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV11,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:05,6/05/2023 11:16,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV12,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:05,6/05/2023 11:19,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV13,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:32,6/05/2023 11:43,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV14,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:58,6/05/2023 12:15,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV15,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:58,6/05/2023 12:18,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV16,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:58,6/05/2023 12:25,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV17,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:58,6/05/2023 12:30,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV18,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,6/05/2023 11:58,6/05/2023 12:32,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV19,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tommahawk tank,HPTT,6/05/2023 14:35,6/05/2023 14:45,No,Yes,<Null>,Nov_2023,146.330789,-21.735214
+N_NOV20,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tommahawk tank,HPTT,6/05/2023 14:50,6/05/2023 14:58,No,Yes,<Null>,Nov_2023,146.330789,-21.735214
+N_NOV21,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tommahawk tank,HPTT,6/05/2023 14:50,6/05/2023 15:12,No,Yes,<Null>,Nov_2023,146.330789,-21.735214
+N_NOV22,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tommahawk tank,HPTT,6/05/2023 14:50,6/05/2023 15:18,No,Yes,<Null>,Nov_2023,146.330789,-21.735214
+N_NOV23,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tommahawk tank,HPTT,6/05/2023 14:50,6/05/2023 15:23,No,Yes,<Null>,Nov_2023,146.330789,-21.735214
+N_NOV24,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tommahawk tank,HPTT,6/05/2023 14:50,6/05/2023 15:26,No,Yes,<Null>,Nov_2023,146.330789,-21.735214
+N_NOV25,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 14:45,4/05/2023 15:05,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV26,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 14:45,4/05/2023 15:07,No,Yes,<Null>,Nov_2023,146.344943,-21.62763
+N_NOV27,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 11:28,4/05/2023 11:38,No,Yes,<Null>,Nov_2023,146.344922,-21.627626
+N_NOV28,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 11:35,4/05/2023 11:48,No,Yes,<Null>,Nov_2023,146.344922,-21.627626
+N_NOV29,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 11:48,4/05/2023 12:08,No,Yes,<Null>,Nov_2023,146.344922,-21.627626
+N_NOV30,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 11:50,4/05/2023 12:09,No,Yes,<Null>,Nov_2023,146.344922,-21.627626
+N_NOV31,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 11:50,4/05/2023 12:22,No,Yes,<Null>,Nov_2023,146.344922,-21.627626
+N_NOV32,North,2023 Wet Season,Wet,Breanna Williams,Hyde park- tank on the hill,HPHT,4/05/2023 11:50,4/05/2023 12:27,No,Yes,<Null>,Nov_2023,146.344922,-21.627626
